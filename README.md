@@ -1,5 +1,5 @@
 # smsAutomation-PY
-
+Automate WhatsApp with 15 lines of Python Code with Heroku
 1: Create account in twilio - (www.twilio.com)
 2: Go to sms dashboard in twilio and click on whatsapp
 3: To begin testing, send a message from your whatsapp number to the whatsapp number provided by twilio with sandbox text messsage .
